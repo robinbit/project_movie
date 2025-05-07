@@ -6,7 +6,7 @@
    
 ## 2주
 
-   <img src="./png/2주차.png"></img>
+   <img src="./png/.png"></img>
    
    <img width=" height="" src="./png/고양이.jpg
 
