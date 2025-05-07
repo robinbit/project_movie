@@ -1,19 +1,19 @@
-# 2009003 김한결
 
-## 1주차 과제 
+
+## 1주
 
    <img width="400" height="300" src="./dog.png"></img>
    
-## 2주차 과제
+## 2주
 
    <img src="./png/2주차.png"></img>
    
    <img width=" height="" src="./png/고양이.jpg
 
 
-## 3주차 과제
+## 3주
 
-## 4주차 과제
+## 4주
    
    - 안녕하세요 
    
